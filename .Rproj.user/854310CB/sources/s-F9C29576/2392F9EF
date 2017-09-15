@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4279641884",
+    "hash" : "0",
     "id" : "2392F9EF",
     "lastKnownWriteTime" : 1505439278,
     "last_content_update" : 1505439278,
     "path" : "~/parisite/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
     "properties" : {
+        "cursorPosition" : "12,1",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
